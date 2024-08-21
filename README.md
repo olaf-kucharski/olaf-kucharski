@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi there 👋, my name is Olaf
 
+## Skills
+- <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask" width="100"/> Flask
 <!--
 **olaf-kucharski/olaf-kucharski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
