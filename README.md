@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Olaf
 
 ## Skills
-- <a href="https://flask.palletsprojects.com/en/latest/"><img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask" width="100"/>
+- <a href="https://flask.palletsprojects.com/en/latest/"><img src="/flask.png" alt="Flask" width="50"/>
 <!--
 **olaf-kucharski/olaf-kucharski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
