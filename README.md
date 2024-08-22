@@ -1,18 +1,16 @@
 # Hi there 👋, my name is Olaf
 
 ## Skills
-- <a href="https://flask.palletsprojects.com/en/latest/"><img src="/flask.png" alt="Flask" width="50"/>
-<!--
-**olaf-kucharski/olaf-kucharski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://docs.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" alt="Python" width="50"/>
+  <a href="https://docs.jupyter.org/"><img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="Jupyter" width="50"/></a>
+  <a href="https://flask.palletsprojects.com/en/latest/"><img src="/flask.png" alt="Flask" width="50"/></a>
+  <a href="https://pandas.pydata.org/docs/index.html" ><img src="https://pandas.pydata.org/static/img/favicon_white.ico" alt="Pandas" height="50" /></a>
+  <a href="https://numpy.org/doc/" ><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" height="50" /></a>
+  <a href="https://docs.python.org/3/library/tkinter.html" ><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI0t0Y9CTxpGbvzomIpNd5bb4e-8lny0qrPJLBygCDMTNroCdk7FH9icIGwHPO7-SdPYBZWnvs7-I7aSf1F03kmFlFsCMdKNBMFd7B8_VGkxMQgKYhYHXJy76TxjdJERo_tNuoxkn3QgU/s200/tkinter-pluma.png" alt="Tkinter" height="50" /></a>
+</p>
+<br>
+<br>
+<p align="center">
+  <a><img src="https://media1.tenor.com/m/fbQonbtc7REAAAAd/get-rotated-get-rotated-idiot.gif" alt="Get rotated idiot" width="300" /></a>
+</p>
