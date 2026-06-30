@@ -1,4 +1,5 @@
 # Hi there 👋, my name is Olaf
+I’m currently writing my Master’s thesis in Computer Science and a Python Developer. Right now I am focusing on Machine Learning, creating various projects in that topic.
 
 ## Skills
 <p>
