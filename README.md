@@ -2,7 +2,7 @@
 
 ## Skills
 <p>
-  <a href="https://docs.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" alt="Python" width="50"/>
+  <a href="https://docs.python.org/"><img src="/Python-logo.png" alt="Python" width="50"/>
   <a href="https://docs.jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="50"/></a>
   <a href="https://pytorch.org/docs/stable/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50"/>
   <a href="https://flask.palletsprojects.com/en/latest/"><img src="/flask.png" alt="Flask" width="50"/></a>
