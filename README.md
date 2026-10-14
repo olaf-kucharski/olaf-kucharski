@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Olaf
-I’m currently searching for a job as a Python Developer. .
+I’m currently searching for a job as a Python Developer.
 
 ## Skills
 <p>
